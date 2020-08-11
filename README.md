@@ -1,3 +1,4 @@
-# converting-images
-# The program converts a image into jpeg format
-# and also resizes it to 128*128 which is a icon size and rotates it to 90 degrees.
+The program is used to convert, resize multiple images or a single image
+It also can convert and resize all the images in given path folder
+To access the additional option of converting single or multiple image I have used arguments 
+
